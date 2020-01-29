@@ -1,0 +1,1 @@
+Entropie system library is a middle-layer between the web app and Entropie infrastructure. The system library can receive only a restricted set of commands from the web app. The web app capabilities to change entropie infrastructure should be limited to create/delete Services and assign users to VPS.
